@@ -1,4 +1,4 @@
-# gradle-kotlin.g8
+# kotlin-gradle.g8
 
 A [giter8](https://github.com/foundweekends/giter8) template for a [Gradle](https://gradle.org) project using [Kotlin](https://kotlinlang.org) and [KotlinTest](https://github.com/kotlintest/kotlintest).
 
