@@ -7,3 +7,9 @@ A [giter8](https://github.com/foundweekends/giter8) template for a [Gradle](http
 ```
 g8 git@github.com:cstroe/gradle-kotlin-g8.git
 ```
+
+## Links
+
+Similar projects:
+
+* [herveDarritchon/gradle-kotlin.g8](https://github.com/herveDarritchon/gradle-kotlin.g8)
